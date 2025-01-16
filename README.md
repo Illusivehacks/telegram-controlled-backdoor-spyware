@@ -170,3 +170,18 @@ use the /cmd command to activate the command prompt session of the target device
 
 All the commands to use will be displayed and now you can execute each one of them from your bot to the target device.
 
+10. Now after verifying that it working you can navigate to the terminal and convert the backdoor.py to an executable using the command below:
+    step 1. ````pip install pyinstaller````
+    step 2. Create the Executable
+            Use the following command to convert your Python script (script.py) into an executable with no console and a custom icon:
+
+            bash
+            pyinstaller --noconsole --onefile --icon=path_to_icon.ico script.py
+    
+    Explanation of the flags:
+
+   --noconsole: Hides the console window when running the executable.
+   --onefile: Packages everything into a single .exe file.
+   --icon=path_to_icon.ico: Specifies the custom icon for the executable.
+
+
