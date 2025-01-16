@@ -10,10 +10,10 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your bot token
-BOT_TOKEN = "7623260114:AAGsga1PN7AiVMGmqbY2WXMD1nxFH0OBZrM"
+BOT_TOKEN = "paste token here"
 
 # Replace with your Telegram user ID
-AUTHORIZED_USER_ID = 6215932196  # Replace with your actual Telegram user ID
+AUTHORIZED_USER_ID =  paste id here  # Replace with your actual Telegram user ID
 
 # Global variable to track if CMD interaction is active
 cmd_active = False
