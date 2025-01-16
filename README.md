@@ -180,8 +180,8 @@ All the commands to use will be displayed and now you can execute each one of th
     
     Explanation of the flags:
 
-   --noconsole: Hides the console window when running the executable.
-   --onefile: Packages everything into a single .exe file.
-   --icon=path_to_icon.ico: Specifies the custom icon for the executable.
+       --noconsole: Hides the console window when running the executable.
+       --onefile: Packages everything into a single .exe file.
+       --icon=path_to_icon.ico: Specifies the custom icon for the executable.
 
 
