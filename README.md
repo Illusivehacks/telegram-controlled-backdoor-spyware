@@ -109,7 +109,7 @@ You can capture images, screenshots, record audio, and video using the correspon
 ![Screenshot Placeholder](output.png)
 
 
-
+![Screenshot Placeholder](output2.png)
 
 Troubleshooting
 Error: Unable to capture image or video
