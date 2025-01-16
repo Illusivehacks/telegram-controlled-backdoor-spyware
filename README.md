@@ -4,6 +4,10 @@ SneakyEyes - Remote Terminal Bot
 Overview
 SneakyEyes is a remote terminal bot for Telegram that allows you to control a computer remotely by issuing various commands via Telegram. You can capture images, screenshots, record audio and video, and execute system commands all through the bot interface. It provides a range of useful features for remote system management, perfect for use in secure environments.
 
+
+![Screenshot Placeholder](GUI.png)
+
+
 Features
 Remote Command Prompt: Execute Windows commands like listing directories, copying files, listing running processes, etc.
 Capture Image: Take a photo from the system's webcam.
@@ -100,26 +104,12 @@ Start a chat with your bot on Telegram.
 Send /start to begin the session. If the user is unauthorized, the bot will respond with a "Unauthorized access denied" message.
 To activate the command prompt session, send /cmd. You can then send commands like dir, cd <directory>, ping <address>, and more to interact with the system.
 You can capture images, screenshots, record audio, and video using the corresponding commands.
-Example Screenshots and Outputs
-1. Captured Image
-Here is an example of an image captured from the system's webcam.
+
+
+![Screenshot Placeholder](output.png)
 
 
 
-2. Captured Screenshot
-Here is an example of a screenshot taken from the system's screen.
-
-
-
-3. Recorded Audio
-Below is an example of the recorded audio.
-
-Recorded Audio
-
-4. Recorded Video
-Here is an example of the recorded video.
-
-Recorded Video
 
 Troubleshooting
 Error: Unable to capture image or video
