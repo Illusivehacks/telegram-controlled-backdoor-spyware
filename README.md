@@ -135,4 +135,46 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or issues, please contact me at IllusiveHacks on Telegram.
+For any questions or issues, please contact me at IllusiveHacks on Telegram or email me at williamkitungo@gmail.com.
+
+
+
+
+USERS PLEASE NOTE THAT SOME FILES LIKE THE backdoor.exe and backdoor.pkg are missing because they are large in size. Kindly follow the instructions below to create your own backdoor successfully
+
+1. Create a folder in your computer in a prefered directory.
+2. Open visual studio code and navigate to file to open the folder you have created.
+3. Navigate to my github account and access the backdoor.py file and images.ico, you can either download it or copy its content.
+4. Open the visual studio and create a file by the name "backdoor.py" and paste the code inside the file.
+5. Move your downloaded image.ico to the same directory as your backdoor.py file
+6. Download the necessary requirements. Navigate to the run nav and select new terminal 
+    Subprocess
+    os
+    cv2
+    time
+    pyautogui
+    sounddevice
+    soundfile
+    threading 
+    telegrambot
+   
+    USE THIS COMMAND TO DOWNLOAD THE REQUIREMENTS IN THE TERMINAL ````python -m pip install "requirement`s name"````
+   
+8. After all requirements are installed, open telegram and search for bot father and id bot to create your bot token and chat id respectively. NOTE: Dont share your bot token and chat id with anyone!!
+   now after creating them navigate to the code and paste them to the appropriate sections indicated by comments.
+9. Now run the code to check whether the code is working, you can verify it by leaving the code running and opening your telegram and navigate to the bot through the link administered to you after you created the bot. make sure to start you bot it should show case this information below:
+                """
+    🌟✨🌙🔒🔑 Welcome to 🔐 **SneakyEyes** 🔑🌙✨🌟
+    🚨 by **IllusiveHacks** 🚨
+    
+    🛠️ Remote Terminal Bot 🛠️
+    Use **/cmd** to activate the Command Prompt session.
+
+    🖥️ Capture Image 📸 | Capture Screenshot 📷
+    🎤 Record Audio 🎵 | 🎬 Record Video 🎥
+
+    Enjoy your session! 😎
+    """
+
+use the /cmd command to activate the command prompt session of the target device at this point the target machine will be your computer coz its currently the one running the code
+
