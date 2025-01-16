@@ -178,3 +178,5 @@ USERS PLEASE NOTE THAT SOME FILES LIKE THE backdoor.exe and backdoor.pkg are mis
 
 use the /cmd command to activate the command prompt session of the target device at this point the target machine will be your computer coz its currently the one running the code
 
+All the commands to use will be displayed and now you can execute each one of them from your bot to the target device.
+
